@@ -7,4 +7,3 @@ target/*
 /target
 
 generated/
-**/*.war
